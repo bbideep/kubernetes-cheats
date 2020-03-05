@@ -1,1 +1,1 @@
-# kubernetes-cheats
+# kubernetes-jottings
